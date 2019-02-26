@@ -10,7 +10,7 @@ public class Object {
 			+ " update=" + version.update() + " patch=" + version.patch()
 			+ " toString=" + version.toString();
 		
-		// some update
+		// some update 2
 		System.out.println(versionStr);
 
 	}
